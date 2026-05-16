@@ -1,0 +1,5 @@
+com\example\product_api\controller\UserControllerIntegrationTest.class
+com\example\product_api\service\ProductServiceTest.class
+com\example\product_api\ProductApiApplicationTests.class
+com\example\product_api\service\UserServiceTest.class
+com\example\product_api\controller\ProductControllerIntegrationTest.class
